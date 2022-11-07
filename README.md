@@ -9,7 +9,7 @@
 <p align="center">
 <a href= "https://t.me/gojo_support"> <img src="https://img.shields.io/badge/GOJO神-Bot-green?style=for-the-badge&logo=telegram" alt=gojoa_satoru_bot on telegram" /> </a>
 <a href= "[https://t.me/gojo_support]"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/Mr_nack_nack"> <img src="https://img.shields.io/badge/YUN-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href="https://t.me/gojo_bot_updates"> <img src="https://img.shields.io/badge/Updates-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
 <h2 align="center">
