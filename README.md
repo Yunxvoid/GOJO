@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://github.com/yunxvoid"> <img src="https://img.shields.io/badge/ALONE-Github-magenta?style=for-the-badge&logo=github" alt="YUN윤 Github" /> </a>
-<a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME-1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
+<a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME-1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /></a>
 </p>
 
 ## How to setup/deploy.
