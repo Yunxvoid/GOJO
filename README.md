@@ -1,4 +1,4 @@
-# GOJO ![GOJO](https://telegra.ph/file/6a79f37b4cdc0ca0c9a43.jpg)
+![GOJO](https://telegra.ph/file/6a79f37b4cdc0ca0c9a43.jpg)
 
 <h2 align="center">
     ──「 GOJO神 IS A MODULAR BOT WITH ANIME THEME 」──
@@ -7,8 +7,8 @@
 </h2>
 
 <p align="center">
-<a href= "https://t.me/gojo_support"> <img src="https://img.shields.io/badge/GOJO-Bot-green?style=for-the-badge&logo=telegram" alt=gojoa_satoru_bot on telegram" /> </a>
-<a href= "https://t.me/tyranteyeeee"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href= "https://t.me/gojo_support"> <img src="https://img.shields.io/badge/GOJO神-Bot-green?style=for-the-badge&logo=telegram" alt=gojoa_satoru_bot on telegram" /> </a>
+<a href= "[https://t.me/gojo_support]"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/Mr_nack_nack"> <img src="https://img.shields.io/badge/YUN-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
@@ -17,8 +17,8 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/Alonebots"> <img src="https://img.shields.io/badge/ALONE-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
-<a href="https://github.com/asadali32117"> <img src="https://img.shields.io/badge/asadali32117-Github-magenta?style=for-the-badge&logo=github" alt="Ryu120 Github" /> </a>
+<a href="https://github.com/yunxvoid"> <img src="https://img.shields.io/badge/ALONE-Github-magenta?style=for-the-badge&logo=github" alt="YUN윤 Github" /> </a>
+<a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME-1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
 </p>
 
 ## How to setup/deploy.
