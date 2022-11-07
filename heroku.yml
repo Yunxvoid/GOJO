@@ -1,0 +1,9 @@
+build:
+  docker:
+    worker: Dockerfile
+run:
+  worker: python3 -m GOJO
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
