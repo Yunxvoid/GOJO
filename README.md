@@ -64,7 +64,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from Shikimori.sample_config import Config
+from GOJO.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 5001899507  # your telegram ID
