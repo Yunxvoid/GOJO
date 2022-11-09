@@ -12,7 +12,7 @@ from telethon.sessions import MemorySession
 StartTime = time.time()
 
 # enable logging
-FORMAT = "[Shikimori] %(message)s"
+FORMAT = "[GOJO] %(message)s"
 logging.basicConfig(
     handlers=[logging.FileHandler("bot_logs.txt"), logging.StreamHandler()],
     level=logging.INFO,
