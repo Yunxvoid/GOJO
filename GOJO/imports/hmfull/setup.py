@@ -13,7 +13,7 @@ setup(
     author_email='alice@alicesworld.tech',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/ProgrammerIn-wonderland/hmfullpy',
+    url='https://github.com/Yunxvoid/GOJO/tree/main/GOJO/imports/hmfull',
     keywords= ["anime", "hentai", "nsfw", "sfw", "images", "gifs", "wallpaper", "discord", "ahegao", "ass", "neko", "kitsune", "yuri", "panties", "thighs", "foot", "overwatch", "dva", "erotic", "lewdkemo", "lewdneko", "lewdkitsune", "holo", "bj", "spank", "ero", "kawaii", "cute", "waifu", "hmtai", "zettaiRyouiki", "18+", "REST", "API", "Mikun"],
     long_description=long_description,
     long_description_content_type='text/x-rst',
