@@ -3,8 +3,8 @@
 import sys
 import traceback
 from functools import wraps
-from Shikimori import pbot
-from Shikimori.vars import LOG_CHANNEL
+from GOJO import pbot
+from GOJO.vars import LOG_CHANNEL
 from pyrogram.errors.exceptions.forbidden_403 import ChatWriteForbidden
 
 def split_limits(text):
