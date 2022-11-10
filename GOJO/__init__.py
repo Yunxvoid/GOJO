@@ -1,7 +1,7 @@
 import logging
 import sys
 import time
-from GOJO.vars import OWNER_ID, DEV_USERS, DEMONS, DRAGONS, TOKEN, WORKERS, API_HASH, API_ID, WOLVES, ARQ_API_KEY, TIGERS
+from GOJO.vars import OWNER_ID, DEV_USERS, DEMONS, DRAGONS, TOKEN, WORKERS, API_HASH, API_ID, WOLVES, ARQ_API_KEY, TIGERS, FUNC_DB_URL 
 from pyrogram import Client, filters
 from aiohttp import ClientSession
 import telegram.ext as tg
