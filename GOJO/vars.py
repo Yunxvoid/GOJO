@@ -5,7 +5,7 @@ ENV = bool(os.environ.get("ENV", True))
 
 if ENV:
     TOKEN = os.environ.get("BOT_TOKEN", None)
-    FUNC_DB_URL
+    
     try:
         OWNER_ID = int(os.environ.get("OWNER_ID", None))
     except ValueError:
@@ -44,8 +44,8 @@ if ENV:
     API_HASH = os.environ.get("API_HASH", None)
     DB_URL = os.environ.get("DATABASE_URL")
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
-    #FUNC_DB_URL = os.environ.get("FUNC_DB_URL")
-    #FUNC_DB_URL = FUNC_DB_URL.replace("postgres://", "postgresql://", 1)
+    FUNC_DB_URL = os.environ.get("FUNC_DB_URL")
+    FUNC_DB_URL = FUNC_DB_URL.replace("postgres://", "postgresql://", 1)
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     ARQ_API = os.environ.get("ARQ_API_BASE_URL", None)
     LOAD = os.environ.get("LOAD", "").split()
