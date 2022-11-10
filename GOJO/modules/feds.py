@@ -2471,7 +2471,7 @@ dispatcher.add_handler(FED_OWNER_HELP_HANDLER)
 dispatcher.add_handler(FED_ADMIN_HELP_HANDLER)
 dispatcher.add_handler(FED_USER_HELP_HANDLER)
 Footer
-© 2022 GitHub, Inc.
+2022 GitHub, Inc.
 Footer navigation
 Terms
 Privacy
