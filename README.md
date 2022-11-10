@@ -23,19 +23,6 @@
 
 ## How to setup/deploy.
 
-### Read these notes carefully before proceeding 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot.
-
-<details>
-  <summary>Steps to deploy on Heroku !!</summary>
-
-```
-Fill in all the details, Deploy!
-Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
-REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
-Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
-```
-
   <h2 align="center">
     ──「 DEPLOY ON HEROKU 」──
 </h2>
