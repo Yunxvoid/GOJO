@@ -97,7 +97,7 @@
       },
       "DATABASE_URL": {
         "description": "Put sql based database link. Recommended to use Elephant SQL.",
-        "value": "postgresql://hxmnxwjs:4SydrooN-gZ4Mwl7n7ryTfsc8chychi3@jelani.db.elephantsql.com/hxmnxwj",
+        "value": "postgres://nslschmo:s_JMh5gRYKFZGl34GngpaHUi2_R-bBxm@peanut.db.elephantsql.com/nslschmo",
         "required": true
       },
       "FUNC_DB_URL": {
