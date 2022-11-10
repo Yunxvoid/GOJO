@@ -11,7 +11,7 @@ from telegram.utils.helpers import mention_html
 from .log_channel import loggable
 from .helper_funcs.anonymous import user_admin, AdminPerms
 from .helper_funcs.chat_status import bot_admin, connection_status, user_admin_no_reply
-from .helper_funcs.decorators import GOJOcmd, Shikimoricallback
+from .helper_funcs.decorators import GOJOcmd, GOJOcallback
 from .. import LOGGER, updater
 
 import GOJO.modules.sql_2.welcome_sql as sql
@@ -36,7 +36,7 @@ def get_readable_time(time: int) -> str:
     return "{} hour(s)".format(t[0]) if time >= 3600 else "{} minutes".format(t[1])
 
 
-@Shikimoricmd(command="raid", pass_args=True)
+@GOJOcmd(command="raid", pass_args=True)
 @bot_admin
 @connection_status
 @loggable
