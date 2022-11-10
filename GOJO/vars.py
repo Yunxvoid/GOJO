@@ -5,7 +5,7 @@ ENV = bool(os.environ.get("ENV", True))
 
 if ENV:
     TOKEN = os.environ.get("BOT_TOKEN", None)
-
+    FUNC_DB_URL
     try:
         OWNER_ID = int(os.environ.get("OWNER_ID", None))
     except ValueError:
