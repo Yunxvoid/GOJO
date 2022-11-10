@@ -4,9 +4,7 @@ from GOJO.__main__ import HELPABLE, IMPORTED, USER_SETTINGS, CHAT_SETTINGS
 from GOJO.modules.helper_funcs.readable_time import get_readable_time
 from GOJO.vars import (
     BOT_USERNAME,
-    SUPPORT_CHAT,
-    dispatcher,
-    StartTime,
+    SUPPORT_CHAT, 
     ANIME_NAME,
     START_MEDIA,
 )
