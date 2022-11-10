@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from Shikimori import pbot as app
+from GOJO import pbot as app
 
 
 
