@@ -1,5 +1,5 @@
 import time
-import redis
+import .redis import REDIS
 
 from telegram import MessageEntity, ParseMode
 from telegram.error import BadRequest
