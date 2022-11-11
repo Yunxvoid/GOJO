@@ -40,7 +40,7 @@ antinsfw_chats = db.antinsfw
 antislang_chats = db.antislang
 
 CMD_STARTERS = "/"
-better_profanity.profanity.load_censor_words_from_file("./Shikimori/Extras/profanity_wordlist.txt")
+better_profanity.profanity.load_censor_words_from_file("./GOJO/Extras/profanity_wordlist.txt")
 
 
 @register(pattern="^/antinsfw(?: |$)(.*)")
