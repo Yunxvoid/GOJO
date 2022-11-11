@@ -2,6 +2,7 @@ import time
 import re
 from GOJO.__main__ import HELPABLE, IMPORTED, USER_SETTINGS, CHAT_SETTINGS
 from GOJO.modules.helper_funcs.readable_time import get_readable_time
+from GOJO import dispatcher 
 from GOJO.vars import (
     BOT_USERNAME,
     SUPPORT_CHAT, 
