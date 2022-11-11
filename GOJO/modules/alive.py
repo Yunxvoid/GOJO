@@ -31,7 +31,7 @@ def awake(update: Update, context: CallbackContext):
  My Owner : <a href="https://t.me/{OWNER_NAME}">{OWNER_USERNAME}</a></b>
     """
     
-    else:
+        else:
         TEXT = TEXT + "\n<b>Thanks For Adding Me Here </b>"
 
     try:
