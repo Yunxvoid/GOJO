@@ -1,4 +1,5 @@
 import time
+import redis
 
 from telegram import MessageEntity, ParseMode
 from telegram.error import BadRequest
@@ -7,7 +8,6 @@ from telegram.ext import Filters, MessageHandler
 from GOJO import dispatcher
 from GOJO.modules.disable import DisableAbleCommandHandler
 from GOJO.modules.redis.afk_redis import start_afk, end_afk, is_user_afk, afk_reason
-from GOJO import REDIS
 from GOJO.modules.users import get_user_id
 
 from GOJO.modules.helper_funcs.readable_time import get_readable_time
